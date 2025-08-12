@@ -2,7 +2,7 @@
 import os
 
 
-from constants import openai_key
+from api_key import openai_key
 from langchain.llms import OpenAI
 import streamlit as st
 
