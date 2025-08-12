@@ -1,2 +1,3 @@
 # Langchain-Project
-<img width="1438" height="826" alt="image" src="https://github.com/user-attachments/assets/ef89fc02-45fd-41e8-9f01-81acfb576c52" />
+<img width="1438" height="826" alt="image" src="https://github.com/user-attachments/assets/057567d4-7941-46f2-90f8-2a5a8f22718e" />
+
